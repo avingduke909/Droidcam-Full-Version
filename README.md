@@ -234,4 +234,4 @@ This repository serves as the official landing page for DroidCam. The software i
 **Get the most recent version of DroidCam today!**
 
 ---
-**Last updated:** 2026-09-12 16:44:46 UTC
+**Last updated:** 2026-09-12 18:57:05 UTC
